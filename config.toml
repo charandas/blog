@@ -11,4 +11,4 @@ siteVkUrl = "#"
 
 googleAnalyticsId = "UA-93082430-1"
 
-linkPrefix = "/blog"
+linkPrefix = "http://humanflow.io/blog"
