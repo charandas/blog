@@ -1,0 +1,14 @@
+siteTitle = "Blog by Charandas Batra"
+siteDescr = "Learn about what I am up to with Software Engineering and life."
+siteAuthor = "Charandas Batra"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/charandas108"
+siteGithubUrl = "https://github.com/charandas"
+siteEmailUrl = "charandas108@gmail.com"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = "UA-93082430-1"
+
+linkPrefix = "/blog"
